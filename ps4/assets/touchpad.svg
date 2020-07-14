@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 24.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 265 153" style="enable-background:new 0 0 265 153;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;}
+	.st1{fill:#4C4C4C;}
+	.st2{fill:#EA8EC3;}
+	.st3{fill:#966FD6;}
+	.st4{opacity:0.12;}
+	.st5{fill:url(#SVGID_2_);}
+</style>
+<pattern  x="0.6" y="152.1" width="71" height="71" patternUnits="userSpaceOnUse" id="SVGID_1_" viewBox="0 -71 71 71" style="overflow:visible;">
+	<g>
+		<rect y="-71" class="st0" width="71" height="71"/>
+		<g>
+			<polygon class="st0" points="0,0 71,0 71,-71 0,-71 			"/>
+			<path class="st1" d="M41.8-35.5c0-3.5-2.8-6.3-6.3-6.3s-6.3,2.8-6.3,6.3s2.8,6.3,6.3,6.3S41.8-32,41.8-35.5z"/>
+		</g>
+	</g>
+</pattern>
+<g>
+	<path class="st2" d="M264.3,6.5c-0.4-3.2-3.3-5.6-6.5-5.6l0,0H132.6l0,0H7.3l0,0c-3.2,0-6.1,2.3-6.5,5.6C0.7,7.2,0.7,7.9,0.7,8.6
+		V136c0,8.9,7.2,16.1,16.1,16.1h115.8l0,0h115.8c8.9,0,16.1-7.2,16.1-16.1V8.6C264.5,7.8,264.5,7.1,264.3,6.5z"/>
+	<g>
+		<path class="st3" d="M260,5.1c0-1-0.8-1.9-1.9-1.9H132.6l0,0H7C6,3.2,5.1,4,5.1,5.1v6v123.2c0,8.6,7,15.6,15.6,15.6h111.9l0,0
+			h111.9c8.6,0,15.6-7,15.6-15.6V11.1L260,5.1z"/>
+		<g class="st4">
+			
+				<pattern  id="SVGID_2_" xlink:href="#SVGID_1_" patternTransform="matrix(0.1017 0 0 -0.1017 -15165.2139 -1385.9784)"  class="st4">
+			</pattern>
+			<path class="st5" d="M5.1,134.3c0,8.6,7,15.6,15.6,15.6h111.9l0,0h111.9c8.6,0,15.6-7,15.6-15.6V27.6H5.1L5.1,134.3L5.1,134.3z"
+				/>
+		</g>
+	</g>
+</g>
+<g>
+	<g>
+		<g>
+			<path class="st3" d="M-348.8,101c-8.1,0-14.6-6.5-14.6-14.6V-42.8c0-0.6,0.5-0.9,0.9-0.9h251.1c0.6,0,0.9,0.5,0.9,0.9l0.1,6.1
+				V86.4c0,8.1-6.5,14.6-14.6,14.6H-348.8z"/>
+			<path class="st2" d="M-111.5-42.7l0.1,6V86.4c0,7.5-6.1,13.6-13.6,13.6h-111.9h-111.9c-7.5,0-13.6-6.1-13.6-13.6V-36.8v-5.9
+				h125.5H-111.5 M-111.4-44.7h-125.5h-125.6c-1,0-1.9,0.8-1.9,1.9v6V86.4c0,8.6,7,15.6,15.6,15.6h111.9H-125
+				c8.6,0,15.6-7,15.6-15.6V-36.7l-0.1-6.1C-109.5-43.8-110.4-44.7-111.4-44.7L-111.4-44.7z"/>
+		</g>
+	</g>
+</g>
+</svg>
